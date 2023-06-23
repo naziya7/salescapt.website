@@ -1,0 +1,159 @@
+.simmonpage {
+    border: 1px solid rgb(204, 204, 204);
+    width: 400px;
+    height: 670px;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .simmonpage1 {
+    border: 1px solid rgb(204, 204, 204);
+    width: 400px;
+    height: 610px;
+    border-radius: 25px;
+  }
+  
+  .simon {
+    width: 30%;
+    padding: 35px 0px 0px 35px;
+  }
+  
+  .simondisplay {
+    display: flex;
+    /* justify-content: space-between; */
+  }
+  
+  .ptagsimon {
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-left: -120px;
+  }
+  
+  .review {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 33px;
+    margin-left: 15px;
+  }
+  
+  .reviewtag {
+    margin-left: 15px;
+    margin-top: -10px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: rgb(167, 167, 167);
+  }
+  
+  .simontag {
+    margin-left: -120px;
+    margin-top: -18px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: rgb(167, 167, 167);
+  }
+  
+  .simontext {
+    padding: 30px 30px 0px 30px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .simonprofit {
+    text-align: center;
+    margin: auto;
+    margin-top: 25%;
+  }
+  
+  .simonpercentage {
+    font-size: 60px;
+    font-weight: 800;
+    margin-top: 40px;
+  }
+  
+  .simonaverage {
+    margin-top: -120px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: rgb(17, 17, 17);
+  }
+  
+  .simonproduct {
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 75px;
+  }
+  
+  .products {
+    margin: 4em 0.5em 0.5em;
+    font-family: Avertastd, sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5em;
+    margin-left: 30px;
+  }
+  .products1 {
+    margin: 4em 0.5em 0.5em;
+    font-family: Avertastd, sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5em;
+    margin-left: 8px;
+    margin-top: 40%;
+  }
+  
+  .product-used {
+    color: #2c2c2c;
+    background-color: #d8f7ff;
+    border-radius: 15px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-right: 10px;
+    padding: 5px 14px;
+    font-family: sans-serif;
+    font-size: 0.9em;
+    font-weight: 400;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 1px;
+  }
+  
+  .userPage {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    margin-top: 45px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 3, 3);
+  }
+  
+  /* .heading-49 {
+    color: #000;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 80px;
+    font-size: 2.5em;
+    font-weight: 800;
+    line-height: 50px;
+  }
+  
+  .heading-48 {
+    color: #000;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 20px;
+    font-size: 2.8em;
+    font-weight: 800;
+    line-height: 50px;
+  }
+  
+  .heading-49 {
+    color: #000;
+    text-align: center;
+    margin-top: 155px;
+    margin-bottom: 20px;
+    font-size: 2.8em;
+    font-weight: 800;
+    line-height: 50px;
+  } */
